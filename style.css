@@ -1,0 +1,22 @@
+#titrePage
+{
+    color:red;
+    font-size: 60px;
+    text-align: center;
+}
+span
+{
+  font-size: 200%;
+}
+.paragraphe
+{
+    text-align: justify;
+}
+#premierelettre1
+{
+    color:fuchsia;
+}
+.lettre
+{
+    color:green;
+}
